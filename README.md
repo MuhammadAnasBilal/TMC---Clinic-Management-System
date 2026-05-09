@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="Screenshots/logo.png" alt="TMC Logo" width="100" />
+<img src="assets/Prj_Logo.jpg" alt="TMC Logo" width="100" />
 
 # TMC — Tauqeer Medical Center
 ### Clinic Management System
