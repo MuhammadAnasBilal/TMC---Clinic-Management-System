@@ -204,7 +204,7 @@ TMC-Clinic-Management-System/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/MuhammadAnasBilal/TMC-Clinic-Management-System.git
+git clone https://github.com/MuhammadAnasBilal/TMC---Clinic-Management-System.git
 cd TMC-Clinic-Management-System
 ```
 
